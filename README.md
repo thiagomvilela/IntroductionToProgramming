@@ -8,8 +8,6 @@
 
 ## Description
 
-Exercise resolution and project development for the 1st unit of the Introduction to Programming course at the Federal Institute of Pernambuco.
-
 - Present the first contact with programming logic;
 - Learn to use an integrated development environment;
 - Learn debugging techniques;
