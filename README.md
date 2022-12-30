@@ -27,10 +27,10 @@
 
 > List of programming exercises in Python language from the Faculty of Computing (FACOM) of the Federal University of Uberlândia (UFU):
 
-- Exercises: Variables and Expressions
-- Exercises: Strings
-- Exercises: Conditional Statements
-- Exercises: Repetition Commands
+- Exercises: Variables and Expressions;
+- Exercises: Strings;
+- Exercises: Conditional Statements;
+- Exercises: Repetition Commands.
 
 > 2nd Unit:
 - Agenda and Force Project;
