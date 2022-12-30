@@ -47,3 +47,4 @@ The following tools were used in the construction of the project:
 - [Python](https://www.python.org/)
 - [PyCharm](https://www.jetbrains.com/pt-br/pycharm/)
 - [Visual Studio Code](https://code.visualstudio.com/)
+- [Introduction to Programming with Python](https://python.nilo.pro.br/)
