@@ -1,7 +1,7 @@
-# 
+#
 
 <h1 align="center">
-  <img alt="introduction-to-programming" src="./img/logo.png" />
+  <img alt="introduction-to-programming" src="introduction-to-programming(logo).png" />
 </h1>
 
 <h1 align="center">Introduction to Programming</h1>
@@ -33,6 +33,7 @@
 - Exercises: Repetition Commands.
 
 > 2nd Unit:
+
 - Agenda and Force Project;
 - Functions (Defining a function / Local and Global Variables, Recursion);
 - Module Functions / Tips;
